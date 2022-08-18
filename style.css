@@ -75,10 +75,11 @@
 
 .infoblocks {
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 .blockrow {
-  width: 100px;
+  max-width: 100%;
 }
 
 .block {
@@ -91,8 +92,7 @@
   width: 100%;
 }
 .block img {
-  height: 245px;
-  width: 360px;
+  width: 30%;
 }
 
 /* .block:hover {
