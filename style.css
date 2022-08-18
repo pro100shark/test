@@ -101,27 +101,27 @@
 }
 
 .block1 {
-  background: url(/img/b.why.jpg);
+  background: url(img/b.why.jpg);
   background-size: cover;
 }
 .block2 {
-  background: url(/img//b.law.jpg);
+  background: url(img//b.law.jpg);
   background-size: cover;
 }
 .block3 {
-  background: url(/img/b.team.jpg);
+  background: url(img/b.team.jpg);
   background-size: cover;
 }
 .block4 {
-  background: url(/img/b.money.jpg);
+  background: url(img/b.money.jpg);
   background-size: cover;
 }
 .block5 {
-  background: url(/img/b.money.jpg);
+  background: url(img/b.money.jpg);
   background-size: cover;
 }
 .block6 {
-  background: url(/img/b.money.jpg);
+  background: url(img/b.money.jpg);
   background-size: cover;
 }
 
@@ -392,27 +392,27 @@
     height: 245;
   }
   .block1 {
-    background: url(/img/b.why.jpg);
+    background: url(img/b.why.jpg);
     background-size: cover;
   }
   .block2 {
-    background: url(/img//b.law.jpg);
+    background: url(img//b.law.jpg);
     background-size: cover;
   }
   .block3 {
-    background: url(/img/b.team.jpg);
+    background: url(img/b.team.jpg);
     background-size: cover;
   }
   .block4 {
-    background: url(/img/b.money.jpg);
+    background: url(img/b.money.jpg);
     background-size: cover;
   }
   .block5 {
-    background: url(/img/b.money.jpg);
+    background: url(img/b.money.jpg);
     background-size: cover;
   }
   .block6 {
-    background: url(/img/b.money.jpg);
+    background: url(img/b.money.jpg);
     background-size: cover;
   }
 }
