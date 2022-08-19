@@ -172,6 +172,10 @@ h6 {
   width: 360px;
   height: 247px;
 }
+.block p {
+  border-radius: 10px;
+  background-color: #83838346;
+}
 
 .block1 {
   background: url(img/b.why.jpg);
