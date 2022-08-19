@@ -264,6 +264,9 @@
     grid-template-rows: 1fr 1fr 1fr;
     gap: 30px;
   }
+  .block:target {
+    scroll-margin-top: 190px;
+  }
   .footer {
     margin-top: 50px;
   }
