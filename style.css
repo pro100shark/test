@@ -203,7 +203,7 @@ h6 {
 }
 
 .block:hover {
-  color: #5e5dad;
+  color: #100f35;
   border: 1px solid black;
   border-radius: 5px;
   box-shadow: 0 0 50px grey;
@@ -444,7 +444,7 @@ h6 {
     color: rgb(255, 255, 255);
     border-bottom: 2px solid rgba(255, 255, 255, 0);
     padding-bottom: 5px;
-    margin: 0;
+    margin: 0px;
   }
   .item:hover {
     text-decoration: none;
@@ -489,8 +489,7 @@ h6 {
     color: #212060;
     font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
     border-radius: 5px;
-    width: 360;
-    height: 245;
+    width: 340px;
   }
   .block:target {
     scroll-margin-top: 190px;
