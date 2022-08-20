@@ -85,7 +85,7 @@ h6 {
 .logo {
   align-self: center;
   justify-self: center;
-  font-size: 60px;
+  font-size: 30px;
 }
 .logo p {
   border-bottom: 2px solid black;
@@ -420,7 +420,7 @@ h6 {
   .logo {
     align-self: center;
     justify-self: center;
-    font-size: 14px;
+    font-size: 20px;
     margin-left: 15px;
   }
   .logo p {
